@@ -1,7 +1,8 @@
-﻿fastapi
+fastapi
 uvicorn
 requests
 pydantic
 python-multipart
 groq
 openai
+numpy    
